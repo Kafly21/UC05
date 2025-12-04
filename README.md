@@ -1,1 +1,1 @@
-# SP3
+# Esse repositório se baseia na atividade UC05 - SP03 do SENAI, onde orientado pelo professor foi criado um site
